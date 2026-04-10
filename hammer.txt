@@ -1,3 +1,7 @@
 Day1:Git Basics 
 Day2: Git diff practice 
+<<<<<<< HEAD
 Main branch change 
+=======
+Feature work 
+>>>>>>> feature-branch
