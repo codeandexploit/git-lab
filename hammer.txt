@@ -3,13 +3,16 @@ Day2: Git diff practice
 HEAD
 Main branch change 
 Feature work 
-<<<<<<< HEAD
->>>>>>> feature-branch
+feature-login-clean
+HEAD
+feature-branch
 Main new chnage 
-=======
+main
 feature-branch
 feature-branch
 Rebase test 
 PR simulation 
 main
->>>>>>> 64c06c991d8941709c447cd0a13a0171eeed4d5a
+feature-login-clean
+64c06c991d8941709c447cd0a13a0171eeed4d5a
+main
